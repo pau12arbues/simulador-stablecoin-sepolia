@@ -1,11 +1,3 @@
-# simulador-stablecoin-sepolia
-Academic project: Deployment and simulation of a smart contract for a Stablecoin (ERC-20) on the Sepolia testnet using Solidity and OpenZeppelin.
-Here is a highly professional, academic-grade `README.md` tailored specifically for your Boliche Coin project. This structure not only shows the technical steps but also proves to your professor that you understand the economic theory behind the code.
-
-You can copy all the text below the line and paste it directly into your GitHub repository's `README.md` file. Remember to replace the `[YOUR_CONTRACT_ADDRESS_HERE]` placeholders with your actual Sepolia address before saving!
-
----
-
 # 🪙 Boliche Coin (ABC) - Academic Stablecoin Project
 
 ## 📌 Project Overview
