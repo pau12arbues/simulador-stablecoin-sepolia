@@ -10,7 +10,7 @@ contract AcademicStablecoin is ERC20, Ownable {
     // The constructor runs only once when you first deploy the contract.
     // It sets the token name, the ticker symbol, and assigns you as the Admin (Owner).
     constructor() 
-        ERC20("Academic USD", "aUSD") 
+        ERC20("Boliche coin", "ABC") 
         Ownable(msg.sender) 
     {}
 

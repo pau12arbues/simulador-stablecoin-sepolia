@@ -615,11 +615,11 @@
 			]
 		},
 		"AcademicStablecoin.sol": {
-			"keccak256": "0x623f003ee63c96ef977ee2e9c3d30adaa577525fe03a738d78e35be951b6cbad",
+			"keccak256": "0x793a075a547f73a09df3582383b2cae893eda769e670f05c7017229fa3d6b7e3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://474917292586beecc501f58e5050845e219945bb9932ead440cfce140fa86b7f",
-				"dweb:/ipfs/QmSpjYwWmtpAg65jSr9P6jCEodBYwW71tacQN5JcCoWjFK"
+				"bzz-raw://72bec1a1b04198d2c7c416e261f2ae1e3815d722d83f53880b776643ae020ca2",
+				"dweb:/ipfs/QmZXYUyN5qkqA8oix9BqGzS9GCsmPuKUv1ML1XAQZae9Cp"
 			]
 		}
 	},
