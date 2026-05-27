@@ -12,29 +12,22 @@ Unlike algorithmic or crypto-collateralized stablecoins, Boliche Coin operates o
 
 * **The Peg:** The token is designed to represent a 1:1 parity with a physical fiat currency.
 * **Centralization (Access Control):** The contract utilizes the `Ownable` pattern. Only the central entity (the contract deployer) has the authority to issue new tokens. This simulates the necessity of a central company verifying that real physical dollars have been deposited into a traditional bank before updating the digital ledger.
-
-
-* 
-**Academic Critique:** While highly efficient, this model introduces significant risks discussed in modern blockchain academia, primarily the necessity for continuous external audits and the risk of censorship (the central issuer's ability to freeze or manipulate funds).
+* **Academic Critique:** While highly efficient, this model introduces significant risks discussed in modern blockchain academia, primarily the necessity for continuous external audits and the risk of censorship (the central issuer's ability to freeze or manipulate funds).
 
 
 
 ## ⚙️ Technical Specifications
 
-* 
-**Network:** Ethereum Sepolia Testnet 
+* **Network:** Ethereum Sepolia Testnet 
 
 
-* 
-**Language:** Solidity (^0.8.20) 
+* **Language:** Solidity (^0.8.20) 
 
 
-* 
-**Token Standard:** ERC-20 
+* **Token Standard:** ERC-20 
 
 
-* 
-**Security Library:** OpenZeppelin Contracts (`ERC20.sol`, `Ownable.sol`) 
+* **Security Library:** OpenZeppelin Contracts (`ERC20.sol`, `Ownable.sol`) 
 
 
 * **Development Environment:** Remix IDE
@@ -72,13 +65,10 @@ If you wish to test the token mechanics on the Sepolia network, follow these ste
 
 ## 📚 References & Bibliography
 
-* 
-**OpenZeppelin Documentation:** Standard ERC-20 implementation.
+* **OpenZeppelin Documentation:** Standard ERC-20 implementation.
 
 
-* 
-**Ethereum.org:** Technical guidelines on Stablecoins and tokenization.
+* **Ethereum.org:** Technical guidelines on Stablecoins and tokenization.
 
 
-* 
-**Tether (USDT) Whitepaper:** Theoretical foundation for the fiat-collateralized model.
+* **Tether (USDT) Whitepaper:** Theoretical foundation for the fiat-collateralized model.
